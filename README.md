@@ -1,6 +1,6 @@
 # UCI_CoverType_Deep_Learning
 
-Project using neural networks constructed with TensorFlow to predict forest coverage type based on data on soil samples.
+Project using neural networks constructed with TensorFlow and Keras to predict forest coverage type based on data on soil samples.
 
 This project uses the full dataset hosted on the UCI machine learning repository: [https://archive.ics.uci.edu/ml/datasets/covertype]
 
@@ -19,7 +19,8 @@ Primary python libraries used:
    - `pandas`
 
  - Neural networks:
-   - `tensorflow` 
+   - `tensorflow`
+   - `keras` 
 
  - Model performance analysis:
    - `sklearn`
