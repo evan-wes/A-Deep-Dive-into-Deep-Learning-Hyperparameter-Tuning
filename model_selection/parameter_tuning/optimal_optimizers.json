@@ -1,1 +1,1 @@
-{"optimizer": {"0": "Nadam", "1": "Adamax", "2": "RMSprop", "3": "Adam"}}
+{"optimizer": {"0": "Nadam", "1": "RMSprop", "2": "Adamax", "3": "Adam"}}
