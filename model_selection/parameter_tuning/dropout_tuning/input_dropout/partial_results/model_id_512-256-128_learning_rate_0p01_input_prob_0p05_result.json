@@ -1,0 +1,1 @@
+{"model_id": {"0": "512-256-128"}, "optimizer": {"0": "Adam"}, "learning_rate": {"0": 0.01}, "input_prob": {"0": 0.05}, "hidden_prob": {"0": 0}, "weight_constraint": {"0": 0}, "loss": {"0": 0.28474870324134827}, "accuracy": {"0": 0.8822646141052246}, "val_loss": {"0": 0.38877546787261963}, "val_accuracy": {"0": 0.8499817252159119}, "training_time": {"0": 411.798528}}

@@ -1,0 +1,1 @@
+{"model_id": {"0": "64-32"}, "nodes": {"0": [64, 32]}, "layer_count": {"0": 2}, "structure": {"0": "tapered"}, "trainable_count": {"0": 5831}, "non_trainable_count": {"0": 0}, "loss": {"0": 0.41582220792770386}, "accuracy": {"0": 0.822727620601654}, "val_loss": {"0": 0.4267497658729553}, "val_accuracy": {"0": 0.8159462809562683}, "training_time": {"0": 146.322544}}

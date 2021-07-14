@@ -1,0 +1,1 @@
+{"model_id": {"0": "16"}, "nodes": {"0": [16]}, "layer_count": {"0": 1}, "structure": {"0": "constant"}, "trainable_count": {"0": 999}, "non_trainable_count": {"0": 0}, "loss": {"0": 0.5635660290718079}, "accuracy": {"0": 0.7577953338623047}, "val_loss": {"0": 0.5614025592803955}, "val_accuracy": {"0": 0.756201446056366}, "training_time": {"0": 141.3001}}
