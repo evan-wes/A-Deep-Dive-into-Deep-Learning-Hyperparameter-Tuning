@@ -8,7 +8,7 @@ The primary goal of this project is to develop strategies for tuning the large n
 
 1. Initial exploratory analysis and feature engineering ------------------------------------------ [&#10003;] 
 
-2. Develop framework for automatic looping over pa------------------------------------------- [$\checkmark$]
+2. Develop framework for automatic looping over pa------------------------------------------- [&#10003;]
 
     a. Custom model building function to build and compile tensorflow model <br>
         &nbsp; &nbsp; with arbitrary parameters -------------------------------------------------------- [&#10003;]
