@@ -2,7 +2,7 @@
 
 The primary goal of this project is to develop strategies for tuning the large number of parameters and hyperparameters controlling various aspects of neural network construction and training. As such, the underlying dataset is less important. For this project, I used the `Cover_Type` dataset from the UCI machine learning repository: [https://archive.ics.uci.edu/ml/datasets/covertype](https://archive.ics.uci.edu/ml/datasets/covertype). I picked this dataset because it contains a mix of continuous and boolean features (over fifty in total), and has multiple outputs. 
 
-**~~~ This project is a current work in progress ~~~**
+<strong>~ ~ This project is a current work in progress ~ ~<\strong>
 
 ## Path to completion:
 
