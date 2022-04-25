@@ -4,6 +4,8 @@ The primary goal of this project is to develop strategies for tuning the large n
 
 <b> ~~~~~ This project is a current work in progress ~~~~~ </b>
 
+Please see [these slides](/A_Deep_Dive_into_Deep_Learning_Hyperparameter_Tuning.pdf) for a detailed illustrative walkthrough of the analysis completed so far, including many plots and visualizations.
+
 ## Path to completion:
 
 1. Initial exploratory analysis and feature engineering ------------------------------------------ [&#10003;] 
